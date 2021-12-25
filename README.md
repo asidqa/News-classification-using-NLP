@@ -1,7 +1,7 @@
 # News-classification-using-NLP
 Classify news headlines and stories as true or fake to help any platform reduce its risk of negative PR and related financial losses using Natural Language Processing and Machine Learning
 
-#Problem
+## Problem
 fake news goes around in every platform including social media platfomrs, which bring in negetive promotions
 
 the aim is to build a model which classifies whether the news given is genuine news or false news by using Natural Language Processing.
@@ -27,7 +27,7 @@ Middle-east<br/>
 politicsNews<br/>
 worldNews<br/>
 
-#METHODOLOGY
-• data analysis to understand the data
-• text preprocessing - tokenization, stemming and stopword removal
-• vectorization and model selection: A series of classification models were run on the data and evaluated on overall accuracy
+## METHODOLOGY
+• data analysis to understand the data<br/>
+• text preprocessing - tokenization, stemming and stopword removal<br/>
+• vectorization and model selection: A series of classification models were run on the data and evaluated on overall accuracy<br/>
